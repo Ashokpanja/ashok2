@@ -1274,7 +1274,7 @@ left: -429px;
 position: relative; top: 27%; right: 0;
 }
 .side-container span.side-close-btn.text-danger.bg-dark.rounded.p-1{ display: none;}
-
+.service-content-inner P{ min-height: 75px; }
 
 
 
